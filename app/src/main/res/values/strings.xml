@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Blazin\' Wheels</string>
+    <string name="blazin_wheels">Blazin\' Wheels</string>
+    <string name="honda">Honda</string>
+    <string name="nissan">Nissan</string>
+    <string name="mclaren">McLaren</string>
+</resources>
